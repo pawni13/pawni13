@@ -1,41 +1,27 @@
-<h1 align="center">Hi there, I'm Pawni Mishra</h1>
+# 💫 About Me:
+👋 Hi! I'm **Pawni Mishra**, an MCA student passionate about web development and programming.<br>
+I love turning ideas into interactive user experiences using **Java**, **Python**, **HTML**, **CSS**, and **JavaScript**.<br>
+Always eager to learn, build, and grow in tech! 🚀
 
 ---
 
-### 👩‍💻 About Me
-Hello! I'm Pawni Mishra, an enthusiastic and detail-oriented student currently pursuing my **Master of Computer Applications (MCA)**.  
-I’m passionate about solving real-world problems with technology and love turning ideas into functional and user-friendly applications.
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/pawni-mishra-081216224)
+- [LeetCode](https://leetcode.com/u/TruO90VU68/)
+- [GitHub](https://github.com/pawni13)
 
 ---
 
-### 💻 What I Do
-
-- **Web Development**: Building responsive and modern web interfaces using **HTML, CSS, JavaScript**, and frameworks like **React**.
-- **Backend Logic**: Applying programming skills in **Java, Python**, and **C++** for developing backend systems and academic projects.
-- **Learning in Progress**: Continuously enhancing my skills in **databases**, **cloud technologies**, and **software architecture**.
-
----
-
-### 📫 Let's Connect
-
-Feel free to connect with me on [LinkedIn](#) or reach out via email for collaboration, projects, or opportunities to grow together in the tech space!
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Pawni's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawnimishra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawnimishra&layout=compact&theme=radical)
+📫 *Feel free to reach out, collaborate, or just say hi!*
